@@ -18,3 +18,6 @@
 <p>git log --author="user_name" (pesquisar as informações do autor daquele commit com o comando)</p>
 <p>git log --since=1.month.ago --until=1.day.ago (pesquisar informações por data)</p>
 <p>git log --pretty="format:%h %s" (formatar a visualização das informações de commit com o comando)</p>
+
+# Arquivo criado -> adicionar a pasta -> commitar -> mandar pro gitHub:
+<p>git status -> git add . ou "nome do arquivo" -> git commit -m -> git push</p>
