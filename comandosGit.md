@@ -14,3 +14,7 @@
 <p>git restore --source "codigo do commit" ". ou nome do arquivo específico" (restaura mudanças feitas)</p>
 
 <p>Obs.: se restaurar um código, ele vai restaurar localmente, caso queira mandar para o github, fazer novo commit e push</p>
+
+<p>git log --author="user_name" (pesquisar as informações do autor daquele commit com o comando)</p>
+<p>git log --since=1.month.ago --until=1.day.ago (pesquisar informações por data)</p>
+<p>git log --pretty="format:%h %s" (formatar a visualização das informações de commit com o comando)</p>
