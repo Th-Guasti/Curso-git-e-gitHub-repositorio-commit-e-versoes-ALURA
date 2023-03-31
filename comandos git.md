@@ -6,3 +6,4 @@
 <p>git log (para ver os commits)</p>
 <p>git log --oneline (ver os commits de forma menor)</p>
 <p>ctrl+l (limpar git bash)</p>
+<p>git pull "link do projeto" (atualizar no computador, mudanças feitas no repositório)</p>
