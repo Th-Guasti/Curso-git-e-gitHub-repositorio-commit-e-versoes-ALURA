@@ -12,3 +12,5 @@
 <p>git commit . -m "mensagem" (commita o projeto todo)</p>
 <p>git commit "nome arquivo" -m "mensagem" (commita o arquivo especificado)</p>
 <p>git restore --source "codigo do commit" ". ou nome do arquivo específico" (restaura mudanças feitas)</p>
+
+<p>Obs.: se restaurar um código, ele vai restaurar localmente, caso queira mandar para o github, fazer novo commit e push</p>
