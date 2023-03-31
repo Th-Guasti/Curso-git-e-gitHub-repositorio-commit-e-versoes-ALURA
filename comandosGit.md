@@ -11,3 +11,4 @@
 <p>git push origin main (levar as mudanças do computador para o github)</p>
 <p>git commit . -m "mensagem" (commita o projeto todo)</p>
 <p>git commit "nome arquivo" -m "mensagem" (commita o arquivo especificado)</p>
+<p>git restore --source "codigo do commit" ". ou nome do arquivo específico" (restaura mudanças feitas)</p>
