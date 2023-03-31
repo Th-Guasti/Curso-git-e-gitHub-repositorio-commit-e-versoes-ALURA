@@ -1,8 +1,8 @@
 # Comandos git passados no curso
 ###
-git clone "link do projeto" (para clonar a pasta do github no computador)
-cd "nome da pasta" (para entrar na pasta clonada)
-ls (para ver os arquivos)
-git log (para ver os commits)
-git log --oneline (ver os commits de forma menor)
-ctrl+l (limpar git bash)
+<p>git clone "link do projeto" (para clonar a pasta do github no computador)</p>
+<p>cd "nome da pasta" (para entrar na pasta clonada)</p>
+<p>ls (para ver os arquivos)</p>
+<p>git log (para ver os commits)</p>
+<p>git log --oneline (ver os commits de forma menor)</p>
+<p>ctrl+l (limpar git bash)</p>
