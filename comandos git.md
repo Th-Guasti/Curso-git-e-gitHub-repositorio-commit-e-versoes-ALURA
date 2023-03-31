@@ -7,3 +7,5 @@
 <p>git log --oneline (ver os commits de forma menor)</p>
 <p>ctrl+l (limpar git bash)</p>
 <p>git pull "link do projeto" (atualizar no computador, mudanças feitas no repositório)</p>
+<p>git status (ver mudanças)</p>
+<p>git push origin main (levar as mudanças do computador para o github)</p>
